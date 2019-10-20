@@ -5,7 +5,7 @@ package usa;
 public class Dhaka {
 
 	public static void main(String[] args) {
-		NewYorkPA myParameter =new NewYorkPA ("Alvee Hoque","Bangladesh","01-29-1995",5);
+		NewYorkPA myParameter =new NewYorkPA ("Alvee Hoque","ZeaulHoque", "Bangladesh","01-29-1995",5);
 
 	}
 
